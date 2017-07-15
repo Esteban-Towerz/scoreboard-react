@@ -1,6 +1,6 @@
 # Project Title
 
-SCOREBOARD - React ![react](https://user-images.githubusercontent.com/25851867/28243002-eb69e4a6-6981-11e7-8980-7a73fd291364.png)
+SCOREBOARD - React :trollface: :octocat:
 
 <img width="707" alt="scoreboard" src="https://user-images.githubusercontent.com/25851867/28242981-fb0cf3fe-6980-11e7-933c-c960ddb422a3.png">
 
