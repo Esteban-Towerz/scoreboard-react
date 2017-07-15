@@ -1,6 +1,4 @@
-# Project Title
-
-SCOREBOARD - React :trollface: :octocat:
+# SCOREBOARD - React:snowflake:   :trollface: :octocat:
 
 <img width="707" alt="scoreboard" src="https://user-images.githubusercontent.com/25851867/28242981-fb0cf3fe-6980-11e7-933c-c960ddb422a3.png">
 
