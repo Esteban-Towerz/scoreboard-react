@@ -1,8 +1,6 @@
 # Project Title
 
-SCOREBOARD - React
-
-![react](https://user-images.githubusercontent.com/25851867/28242957-46b34764-6980-11e7-889c-8e6c82c09a9b.png)
+SCOREBOARD - React ![react](https://user-images.githubusercontent.com/25851867/28243002-eb69e4a6-6981-11e7-8980-7a73fd291364.png)
 
 <img width="707" alt="scoreboard" src="https://user-images.githubusercontent.com/25851867/28242981-fb0cf3fe-6980-11e7-933c-c960ddb422a3.png">
 
